@@ -1,0 +1,28 @@
+{
+  "name": "2-node-js-404-page",
+  "version": "1.0.0",
+  "description": "Demo projektas apie NPM naudojama",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pr0C33D/2-node-js-404-page.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "NodeJs",
+    "NPM"
+  ],
+  "author": "Rolandas",
+  "license": "MMR",
+  "bugs": {
+    "url": "https://github.com/Pr0C33D/2-node-js-404-page/issues"
+  },
+  "homepage": "https://github.com/Pr0C33D/2-node-js-404-page#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
